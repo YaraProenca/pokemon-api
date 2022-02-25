@@ -1,0 +1,29 @@
+.pic-container{
+  display: flex;
+  flex-direction: column;
+  max-width: 550px;
+  max-height: 250px;
+  object-fit: cover;
+  margin: 2%;
+  padding: 2%;
+}
+
+.number{
+  color: rgb(221, 125, 230);
+}
+
+.information{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: rgb(188, 161, 214);
+}
+
+img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  max-height: 100px;
+}
